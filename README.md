@@ -9,8 +9,9 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 <p><img align="right" src="./images/giphy1.gif" width="200" height="200" /></p>
 
 - 📜 Certified 📜 
-    --> Python Web Development, Data Science & Machine Learning
-- 🎓 Continuing my studies at CodingNomads in Deep Learning.
+    - Python Web Development
+    - Data Science & Machine Learning
+- 🎓 Currently Continuing my studies at CodingNomads in Deep Learning.
 - 🥅 2022 Goal: Begin my career in Deep Learning / NLP and play lots of music.
 - 🎹 I enjoy playing music and studying music theory, 📚 reading, 🚵🏽‍♂️ bikepacking, and making food 🥘
 - FAVORITE DATA:  ⚾ Baseball ⚾
@@ -18,7 +19,7 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 <!-- - ⚡ Fun fact: I used to sing in a barbershop quartet -->
 
 <!-- <p><img align="right" src="blah.gif" width="250" height="250" /></p> -->
-
+<br />
 ### Programming Languages 💻:
 
 <img align="left" alt="Python" width="26px" src="https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.svg" />
