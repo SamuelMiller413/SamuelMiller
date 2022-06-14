@@ -55,17 +55,7 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 
 ### Tech Talk:
 
-<iframe
-    width="320"
-    height="240"
-    src="https://www.youtube.com/watch?v=aFapydKwPcM&t=490s"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-
-<img align="center" alt="TechTalk" width="26px" src="https://img.youtube.com/vi/watch?v=aFapydKwPcM&t=490s/1.jpg" />
+<img align="center" alt="TechTalk" width="26px" src="https://lnkd.in/e6ZDSZGC" />
 
 
 <br />
