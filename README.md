@@ -55,7 +55,9 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 
 ### Tech Talk:
 
-<img align="center" alt="TechTalk" width="26px" src="https://lnkd.in/e6ZDSZGC" />
+[![IMAGE_ALT](https://www.youtube.com/watch?v=aFapydKwPcM&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=aFapydKwPcM&feature=youtu.be)
+
+
 
 
 <br />
@@ -78,5 +80,5 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 [cn_article]: https://codingnomads.co/blog/how-to-learn-python-the-beginners-guide/
 [linkedin]: https://www.linkedin.com/in/samuelmillerwriting/
 [huggingface]: https://huggingface.co/SamuelMiller
-
+[techtalk]: https://www.youtube.com/watch?v=aFapydKwPcM&feature=youtu.be
 
