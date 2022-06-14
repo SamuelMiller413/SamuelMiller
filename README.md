@@ -16,14 +16,13 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 - 🎹 I enjoy playing music and studying music theory, 📚 reading, 🚵🏽‍♂️ bikepacking, and making food 🥘
 - FAVORITE DATA:  ⚾ Baseball ⚾
 
-<!-- - ⚡ Fun fact: I used to sing in a barbershop quartet -->
-
-<!-- <p><img align="right" src="blah.gif" width="250" height="250" /></p> -->
 <br />
+
 ### Programming Languages 💻:
 
 <img align="left" alt="Python" width="26px" src="https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
 <br />
 
 ### Frameworks :
