@@ -65,6 +65,8 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 >
 </iframe>
 
+<img align="center" alt="TechTalk" width="26px" src="https://img.youtube.com/vi/watch?v=aFapydKwPcM&t=490s/1.jpg" />
+
 
 <br />
 
