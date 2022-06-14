@@ -11,8 +11,10 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 ### 📜 Certified In 📜 
     - Python Web Development
     - Data Science & Machine Learning
-- 🎓 Currently Continuing my studies at CodingNomads in Deep Learning.
-- 🥅 2022 Goal: Begin my career in Deep Learning / NLP and play lots of music.
+
+
+- 🎓 Currently continuing my studies at CodingNomads in Deep Learning.
+- 🥅 2022 Goals: Begin my career in Deep Learning / NLP and play lots of music.
 - 🎹 I enjoy playing music and studying music theory, 📚 reading, 🚵🏽‍♂️ bikepacking, and making food 🥘
 - FAVORITE DATA:  ⚾ Baseball ⚾
 
