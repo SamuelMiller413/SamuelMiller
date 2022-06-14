@@ -6,9 +6,9 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 
 
 ## About Me 👨‍🎓
-<p><img align="right" src="./images/giphy1.gif" width="200" height="200" /></p>
+<p><img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200" height="200" /></p>
 
-- 📜 Certified 📜 
+- 📜 Certified In 📜 
     - Python Web Development
     - Data Science & Machine Learning
 - 🎓 Currently Continuing my studies at CodingNomads in Deep Learning.
@@ -18,7 +18,7 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 
 <br />
 
-### Programming Languages 💻:
+### Programming Languages 💻
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 
@@ -26,7 +26,8 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 
 <br />
 
-### Frameworks :
+### Frameworks 🖼
+
 <img align="left" alt="PyTorch" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
 <img align="left" alt="TensorFlow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
 
