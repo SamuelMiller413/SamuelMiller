@@ -2,7 +2,7 @@
 Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 
 
-### Hi there, I'm [Samuel Miller][https://www.linkedin.com/in/samuelmillerwriting/]👋
+### Hi there, I'm [Samuel Miller](https://www.linkedin.com/in/samuelmillerwriting/)👋
 
 
 ## About Me 👨‍🎓
