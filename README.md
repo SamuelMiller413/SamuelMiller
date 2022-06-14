@@ -13,24 +13,25 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 - 🎓 Continuing my studies at CodingNomads in Deep Learning.
 - 🥅 2022 Goal: Begin my career in Deep Learning / NLP and play lots of music.
 - 🎹 I enjoy playing music and studying music theory, 📚 reading, 🚵🏽‍♂️ bikepacking, and making food 🥘
-- FAVORITE DATA 💾:  ⚾ Baseball ⚾.
+- FAVORITE DATA:  ⚾ Baseball ⚾
 
-<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
+<!-- - ⚡ Fun fact: I used to sing in a barbershop quartet -->
 
 <!-- <p><img align="right" src="blah.gif" width="250" height="250" /></p> -->
 
 ### Programming Languages 💻:
 
 <img align="left" alt="Python" width="26px" src="images/python.png" />
-
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <br />
 
 ### Frameworks :
 <img align="left" alt="PyTorch" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
-<img align="left" alt="Hive" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" />
-<img align="left" alt="Kafka" width="17px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
-<img align="left" alt="Spark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
-<img align="left" alt="Flume" width="26px" src="https://flume.apache.org/_static/flume-logo.png" />
+<img align="left" alt="TensorFlow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
+
+### Tools :
+<img align="left" alt="Jupyter Notebooks" width="35px" src="https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png" />
+<img align="left" alt="Sci-kit Learn" width="30px" src="https://img.favpng.com/13/13/20/scikit-learn-python-scikit-image-logo-brand-png-favpng-DiDpZ1ewwNabVHftX6ieU1Wx4.jpg" />
 
 <!-- <img align="left" alt="Kafka" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png" />
 <img align="left" alt="Kafka" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" />
