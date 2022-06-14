@@ -49,10 +49,19 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 
 <br />
 
-### Connect with me 🔗:
+### Read my Writing 📰
+
+<br />
+
+### Me presenting my work:
+https://www.youtube.com/watch?v=aFapydKwPcM&t=490s
+
+<br />
+
+### Connect with me 🔗
 
 [<img align="left" alt="samuelmiller | LinkedIn" width="22px" src="(https://www.linkedin.com/in/samuelmillerwriting/" />][linkedin]
-[<img align="left" alt="nassosanagn | HuggingFace" width="22px" src="https://huggingface.co/SamuelMiller" />][huggingface]
+[<img align="left" alt="samuelmiller | HuggingFace" width="22px" src="https://huggingface.co/SamuelMiller" />][huggingface]
 
 <br />
 
@@ -64,8 +73,8 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 </p>
 
 
-[@UoA]: https://www.di.uoa.gr/
-[website]: https://nassosanagn.github.io/
-[twitter]: https://twitter.com/nassosanagn
-[instagram]: https://www.instagram.com/nassosanagn_/
-[linkedin]: https://www.linkedin.com/in/nassosanagn/
+[cn_article]: https://codingnomads.co/blog/how-to-learn-python-the-beginners-guide/
+[linkedin]: https://www.linkedin.com/in/samuelmillerwriting/
+[huggingface]: https://huggingface.co/SamuelMiller
+
+
