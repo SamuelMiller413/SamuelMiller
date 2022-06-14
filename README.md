@@ -54,13 +54,13 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 <br />
 
 ### Tech Talk:
-
+below here
 <!-- <img align="left" alt="TechTalk" width="100px" src="https://img.youtube.com/vi/aFapydKwPcM/0.jpg" /> -->
-![TechTalk](https://img.youtube.com/vi/aFapydKwPcM/0.jpg)(https://www.youtube.com/watch?v=aFapydKwPcM&feature=youtu.be)
+<!-- ![TechTalk](https://img.youtube.com/vi/aFapydKwPcM/0.jpg)(https://www.youtube.com/watch?v=aFapydKwPcM&feature=youtu.be) -->
 
 
 [<img align="left" alt="samuelmiller | TechTalk" width="22px" src="(https://img.youtube.com/vi/aFapydKwPcM/0.jpg" />][techtalk]
-
+above here
 
 <br />
 
