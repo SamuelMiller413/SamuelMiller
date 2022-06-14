@@ -8,7 +8,7 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 ## About Me 👨‍🎓
 <p><img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200" height="200" /></p>
 
-- 📜 Certified In 📜 
+### 📜 Certified In 📜 
     - Python Web Development
     - Data Science & Machine Learning
 - 🎓 Currently Continuing my studies at CodingNomads in Deep Learning.
