@@ -13,7 +13,7 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
     - Data Science & Machine Learning
 
 
-- 🎓 Currently continuing my studies at CodingNomads in Deep Learning.
+- 🎓 Currently continuing my studies at [CodingNomads](https://codingnomads.co/) in Deep Learning.
 - 🥅 2022 Goals: Begin my career in Deep Learning / NLP and play lots of music.
 - 🎹 I enjoy playing music and studying music theory, 📚 reading, 🚵🏽‍♂️ bikepacking, and making food 🥘
 - FAVORITE DATA:  ⚾ Baseball ⚾
