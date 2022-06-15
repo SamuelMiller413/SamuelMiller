@@ -54,7 +54,7 @@ Sci-kit Learn
 
 <br />
 
-### Read my Writing 📰
+### My Writing 📰
 
 [<img align="center" alt="PythonForBeginners" width="200px" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/article_thumbnail.png" />][cn_article]
 
@@ -68,17 +68,18 @@ Sci-kit Learn
 
 ### Connect with me 🔗
 
-[<img align="left" alt="samuelmiller | LinkedIn" width="22px" src="(https://www.linkedin.com/in/samuelmillerwriting/" />][linkedin]
-[<img align="left" alt="samuelmiller | HuggingFace" width="22px" src="https://huggingface.co/SamuelMiller" />][huggingface]
+[<img align="left" alt="samuelmiller | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="samuelmiller | HuggingFace" width="22px" src="https://golden.com/wiki/Hugging_Face-39P6RJJ" />][huggingface]
 
 <br />
 
 ---
 
-<p float="left">
+<!-- <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMiller413&layout=compact&theme=tokyonight" width="350" height="190"/> 
   <img src="https://github-readme-stats.vercel.app/api?username=SamuelMiller413&count_private=true&show_icons=true&theme=dark" width="480" />
 </p>
+ -->
 
 
 [cn_article]: https://codingnomads.co/blog/how-to-learn-python-the-beginners-guide/
