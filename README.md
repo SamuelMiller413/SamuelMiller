@@ -51,13 +51,13 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 
 ### Read my Writing 📰
 
-[<img align="center" alt="PythonForBeginners" width="200px" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/article_thumbnail.png" />][cn_article]
+[<img align="center" alt="PythonForBeginners" width="200px" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/article_thumbnail.png" />][cn_article]{:target="\_blank"}
 
 <br />
 
 ### Tech Talk:
 
-[<img align="center" alt="TechTalk" width="250px" src="https://img.youtube.com/vi/aFapydKwPcM/0.jpg" />][techtalk]
+[<img align="center" alt="TechTalk" width="250px" src="https://img.youtube.com/vi/aFapydKwPcM/0.jpg" />][techtalk]{:target="\_blank"}
 
 <br />
 
