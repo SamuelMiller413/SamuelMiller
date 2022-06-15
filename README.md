@@ -58,8 +58,8 @@ below here
 <!-- <img align="left" alt="TechTalk" width="100px" src="https://img.youtube.com/vi/aFapydKwPcM/0.jpg" /> -->
 <!-- ![TechTalk](https://img.youtube.com/vi/aFapydKwPcM/0.jpg)(https://www.youtube.com/watch?v=aFapydKwPcM&feature=youtu.be) -->
 
-
-[<img align="left" alt="samuelmiller | TechTalk" width="22px" src="(https://img.youtube.com/vi/aFapydKwPcM/0.jpg" />][techtalk]
+<img align="center" alt="TechTalk" width="100px" src="https://img.youtube.com/vi/aFapydKwPcM/0.jpg" />][techtalk]
+<!-- [<img align="left" alt="samuelmiller | TechTalk" width="22px" src="(https://img.youtube.com/vi/aFapydKwPcM/0.jpg" />][techtalk] -->
 above here
 
 <br />
