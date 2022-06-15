@@ -41,23 +41,28 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 <br />
 
 ### Tools 🛠️:
+VSCode
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+GitHub
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
+Terminal
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+Jupyter
 <img align="left" alt="Jupyter Notebooks" width="35px" src="https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png" />
+Sci-kit Learn
 <img align="left" alt="Sci-kit Learn" width="30px" src="https://img.favpng.com/13/13/20/scikit-learn-python-scikit-image-logo-brand-png-favpng-DiDpZ1ewwNabVHftX6ieU1Wx4.jpg" />
 
 <br />
 
 ### Read my Writing 📰
 
-[<img align="center" alt="PythonForBeginners" width="200px" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/article_thumbnail.png" />][cn_article]{:target="\_blank"}
+[<img align="center" alt="PythonForBeginners" width="200px" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/article_thumbnail.png" />][cn_article]
 
 <br />
 
 ### Tech Talk:
 
-[<img align="center" alt="TechTalk" width="250px" src="https://img.youtube.com/vi/aFapydKwPcM/0.jpg" />][techtalk]{:target="\_blank"}
+[<img align="center" alt="TechTalk" width="250px" src="https://img.youtube.com/vi/aFapydKwPcM/0.jpg" />][techtalk]
 
 <br />
 
@@ -71,8 +76,8 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 ---
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nassosanagn&layout=compact&theme=tokyonight" width="350" height="190"/> 
-  <img src="https://github-readme-stats.vercel.app/api?username=nassosanagn&count_private=true&show_icons=true&theme=dark" width="480" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMiller413&layout=compact&theme=tokyonight" width="350" height="190"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelMiller413&count_private=true&show_icons=true&theme=dark" width="480" />
 </p>
 
 
