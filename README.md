@@ -72,8 +72,7 @@ Sci-kit Learn
 
 [<img align="left" alt="samuelmiller | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
-[<img align="left" alt="samuelmiller | HuggingFace" width="22px" src="https://golden.com/wiki/Hugging_Face-39P6RJJ" />][huggingface]
-
+[🤗 ](https://huggingface.co/SamuelMiller)
 <br />
 
 ---
