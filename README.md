@@ -41,21 +41,21 @@ TensorFlow
 <br />
 
 ### Tools 🛠️:
-<img style="float: right;" alt="Jupyter Notebooks" width="35px" src="https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png">
+
 VSCode
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="none" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 GitHub
-<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
+<img align="none" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 
 Terminal
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="none" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 Jupyter
-<img align="left" alt="Jupyter Notebooks" width="35px" src="https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png" />
+<img align="none" alt="Jupyter Notebooks" width="26px" src="https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png" />
 
 Sci-kit Learn
-<img align="left" alt="Sci-kit Learn" width="30px" src="https://img.favpng.com/13/13/20/scikit-learn-python-scikit-image-logo-brand-png-favpng-DiDpZ1ewwNabVHftX6ieU1Wx4.jpg" />
+<img align="none" alt="Sci-kit Learn" width="26px" src="https://img.favpng.com/13/13/20/scikit-learn-python-scikit-image-logo-brand-png-favpng-DiDpZ1ewwNabVHftX6ieU1Wx4.jpg" />
 
 <br />
 
