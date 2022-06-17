@@ -51,6 +51,9 @@ TensorFlow
   <img src="https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png" width="33" /> 
    
   <img src="https://img.favpng.com/13/13/20/scikit-learn-python-scikit-image-logo-brand-png-favpng-DiDpZ1ewwNabVHftX6ieU1Wx4.jpg" width="33" /> 
+    ### My Writing 📰 ###
+
+[<img align="center" alt="PythonForBeginners" width="200px" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/article_thumbnail.png" />][cn_article]
 </p>
 
 <!-- Break Experiment -->
