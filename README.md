@@ -22,8 +22,11 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 
 ### My Writing 📰
 
-[<img align="left" alt="Python For Beginners" width="200px" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/article_thumbnail.png" />][cn_article1]
-[<img align="center" alt="What Does a Data Scientist Do?" width="200px" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/article_thumbnail.png" />][cn_article2]
+#### How to Learn Python: The Beginner's Guide
+[<img align="left" alt="Python For Beginners" width="200px" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/Images/article_thumbnail.png" />][cn_article1]
+
+#### What Does a Data Scientist Do?
+[<img align="float" alt="What Does a Data Scientist Do?" width="200px" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/Images/article_thumbnail2.png" />][cn_article2]
 
 
  
