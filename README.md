@@ -20,6 +20,23 @@ Here's the ReadMe for my GitHub Welcome Page. Feel free to use as a template!
 
 <br />
 
+### My Writing 📰
+
+[<img align="left" alt="Python For Beginners" width="200px" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/article_thumbnail.png" />][cn_article1]
+[<img align="center" alt="What Does a Data Scientist Do?" width="200px" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/article_thumbnail.png" />][cn_article2]
+
+
+ 
+<br />
+
+### Tech Talk:
+
+[<img align="right" alt="TechTalk" width="250px" src="https://img.youtube.com/vi/aFapydKwPcM/0.jpg" />][techtalk]
+
+<br />
+
+<br />
+
 ### Programming Languages 💻
 
 Python
@@ -43,7 +60,6 @@ TensorFlow
 ### Tools 🛠️:
 
 <p float="left">
-   
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="33" />
    
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="33" />
@@ -51,9 +67,6 @@ TensorFlow
   <img src="https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png" width="33" /> 
    
   <img src="https://img.favpng.com/13/13/20/scikit-learn-python-scikit-image-logo-brand-png-favpng-DiDpZ1ewwNabVHftX6ieU1Wx4.jpg" width="33" /> 
-    ### My Writing 📰 ###
-
-[<img align="center" alt="PythonForBeginners" width="200px" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/article_thumbnail.png" />][cn_article]
 </p>
 
 <!-- Break Experiment -->
@@ -75,17 +88,7 @@ Sci-kit Learn
  -->
 <br />
 
-### My Writing 📰
 
-[<img align="center" alt="PythonForBeginners" width="200px" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/article_thumbnail.png" />][cn_article]
-
-<br />
-
-### Tech Talk:
-
-[<img align="center" alt="TechTalk" width="250px" src="https://img.youtube.com/vi/aFapydKwPcM/0.jpg" />][techtalk]
-
-<br />
 
 ### Connect with me 🔗
 
@@ -103,7 +106,8 @@ Sci-kit Learn
  -->
 
 
-[cn_article]: https://codingnomads.co/blog/how-to-learn-python-the-beginners-guide/
+[cn_article1]: https://codingnomads.co/blog/how-to-learn-python-the-beginners-guide/
+[cn_article2]: https://codingnomads.co/blog/what-does-a-data-scientist-do/#salary-for-a-data-scientist
 [linkedin]: https://www.linkedin.com/in/samuelmillerwriting/
 [huggingface]: https://huggingface.co/SamuelMiller
 [techtalk]: https://www.youtube.com/watch?v=aFapydKwPcM&feature=youtu.be
