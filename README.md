@@ -39,8 +39,8 @@
 
 ---
 
-### Notable Work
-**Predicting Solar Energy Potential**
+### Notable Work 🧑🏼‍💻
+[**Predicting Solar Energy Potential**][predicting_solar]
 
 [<img align="center" src="https://github.com/SamuelMiller413/SamuelMiller413/blob/main/Images/solar_front_pic.jpeg" alt="Predicting Solar Energy" width="40%" />][predicting_solar]
 <br />
