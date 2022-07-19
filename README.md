@@ -98,7 +98,7 @@
 <br />
 <br />
 <br />
-**Please feel free to use this one as a template! Thanks to [Nassos Anagnostopoulos](https://github.com/nassosanagn) for the ReadMe template I built from.** 
+**Please feel free to use this ReadMe as a template! Thanks to [Nassos Anagnostopoulos](https://github.com/nassosanagn) for the template I built from.** 
 
 ---
 
