@@ -7,7 +7,7 @@
 ## About Me 👨‍🎓 ## 
 <p><img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200" height="200" /></p>
 
-[View my Resume](https://github.com/SamuelMiller413/Resume/blob/main/Samuel_Miller_Resume_Git.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Schedule a Meeting](https://calendly.com/samuelmiller/zoom-chat)
+[View my Resume](https://github.com/SamuelMiller413/Resume/blob/main/Samuel_Miller_Resume_Git.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Schedule a Meeting](https://calendly.com/samuelmiller/meet-greet)
 <br />
 
 ### 📜 Certified In 📜 
