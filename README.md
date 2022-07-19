@@ -1,4 +1,4 @@
-# SamuelMiller
+# Samuel Miller
 
 ### Hi there, I'm  [Samuel Miller](https://www.linkedin.com/in/samuelmillerwriting/)👋
 *(he/him)*
@@ -23,7 +23,7 @@
 ---
 
 ### My Writing ✍🏼
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**How to Learn Python: A Beginner's Guide**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**What Does a Data Scientist Do?**
+&nbsp;&nbsp;**How to Learn Python: A Beginner's Guide**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**What Does a Data Scientist Do?**
 
 [<img align="left" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/Images/article_thumbnail.png" alt="Python For Beginners" width="40%" />][cn_article2]
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -36,14 +36,20 @@
 <br />
 <br />
 <br />
----
-### Notable Work
-[<img align="center" src="https://github.com/SamuelMiller413/SamuelMiller413/blob/main/Images/solar_front_pic.jpeg" alt="Predicting Solar Energy" width="40%" />][predicting_solar]
 
+---
+
+### Notable Work
+**Predicting Solar Energy Potential**
+
+[<img align="center" src="https://github.com/SamuelMiller413/SamuelMiller413/blob/main/Images/solar_front_pic.jpeg" alt="Predicting Solar Energy" width="40%" />][predicting_solar]
+<br />
+
+---
 
 ### Tech Talk ☀️
 
-**Machine Learning Models for Predicting Solar Energy Potential**
+**Presentation: Predicting Solar Energy Potential**
 <br />
 <br />
 [<img align= "center" alt="Tech Talk" src="https://img.youtube.com/vi/aFapydKwPcM/0.jpg" alt="TechTalk" width="40%" />][techtalk]
