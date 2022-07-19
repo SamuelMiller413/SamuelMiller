@@ -38,7 +38,7 @@
 <br />
 ---
 ### Notable Work
-
+[<img align="center" src="https://github.com/SamuelMiller413/SamuelMiller413/blob/main/Images/solar_front_pic.jpeg" alt="Predicting Solar Energy" width="40%" />][predicting_solar]
 
 
 ### Tech Talk ☀️
@@ -46,7 +46,7 @@
 **Machine Learning Models for Predicting Solar Energy Potential**
 <br />
 <br />
-<img align= "center" alt="Tech Talk" src="https://img.youtube.com/vi/aFapydKwPcM/0.jpg" alt="TechTalk" width="40%" />
+[<img align= "center" alt="Tech Talk" src="https://img.youtube.com/vi/aFapydKwPcM/0.jpg" alt="TechTalk" width="40%" />][techtalk]
 <br />
 
 ---
@@ -103,6 +103,7 @@
 
 [cn_article1]: https://codingnomads.co/blog/how-to-learn-python-the-beginners-guide/
 [cn_article2]: https://codingnomads.co/blog/what-does-a-data-scientist-do/#salary-for-a-data-scientist
+[predicting_solar]: https://github.com/SamuelMiller413/Predicting-Solar-Energy/blob/main/README.md
 [linkedin]: https://www.linkedin.com/in/samuelmillerwriting/
 [huggingface]: https://huggingface.co/SamuelMiller
 [techtalk]: https://www.youtube.com/watch?v=aFapydKwPcM&feature=youtu.be
