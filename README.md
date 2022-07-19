@@ -7,7 +7,10 @@
 ## About Me 👨‍🎓 ## 
 <p><img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200" height="200" /></p>
 
-[View my Resume](https://github.com/SamuelMiller413/Resume/blob/main/Samuel_Miller_Resume_Git.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Schedule a Meeting](https://calendly.com/samuelmiller/meet-greet)
+[View my Resume](https://github.com/SamuelMiller413/Resume/blob/main/Samuel_Miller_Resume_Git.pdf)
+
+
+[Schedule a Meeting](https://calendly.com/samuelmiller/meet-greet)
 <br />
 
 ### 📜 Certified In 📜 
@@ -23,28 +26,27 @@
 ---
 
 ### My Writing ✍🏼
-&nbsp;&nbsp;**How to Learn Python: A Beginner's Guide**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**What Does a Data Scientist Do?**
 
-[<img align="left" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/Images/article_thumbnail.png" alt="Python For Beginners" width="40%" />][cn_article2]
-&nbsp; &nbsp; &nbsp; &nbsp;
-[<img align="right" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/Images/article_thumbnail2.png" alt="What Does a Data Scientist Do?" width="40%" />][cn_article2]
+
+**How to Learn Python: A Beginner's Guide**  
+[<img align="left" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/Images/article_thumbnail.png" alt="Python For Beginners" width="40%" />][cn_article1]
+
+
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
+
+**What Does a Data Scientist Do?**
+[<img float="left" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/Images/article_thumbnail2.png" alt="What Does a Data Scientist Do?" width="40%" />][cn_article2]
 <br />
 
 ---
 
 ### Notable Work 🧑🏼‍💻
-[**Predicting Solar Energy Potential**][predicting_solar]
+
+[Predicting Solar Energy Potential][predicting_solar]
 
 [<img align="center" src="https://github.com/SamuelMiller413/SamuelMiller413/blob/main/Images/solar_front_pic.jpeg" alt="Predicting Solar Energy" width="40%" />][predicting_solar]
 <br />
-
 ---
 
 ### Tech Talk ☀️
