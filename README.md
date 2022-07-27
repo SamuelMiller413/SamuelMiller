@@ -28,15 +28,16 @@
 ### My Writing ✍🏼
 
 
-**How to Learn Python: A Beginner's Guide**  
-[<img align="left" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/Images/article_thumbnail.png" alt="Python For Beginners" width="40%" />][cn_article1]
+**How to Learn Python: A Beginner's Guide**
 
+[<img src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/Images/article_thumbnail.png" alt="Python For Beginners" width="40%" />][cn_article1]
 
 <br />
 
-
 **What Does a Data Scientist Do?**
-[<img float="left" src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/Images/article_thumbnail2.png" alt="What Does a Data Scientist Do?" width="40%" />][cn_article2]
+
+[<img src="https://github.com/SamuelMiller413/SamuelMiller/blob/main/Images/article_thumbnail2.png" alt="What Does a Data Scientist Do?" width="40%" />][cn_article2]
+
 <br />
 
 ---
